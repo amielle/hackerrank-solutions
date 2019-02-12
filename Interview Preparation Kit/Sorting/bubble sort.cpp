@@ -11,12 +11,9 @@ void countSwaps(vector<int> a) {
     int min = *min_element(a.begin(), a.end());
     int temp = 0;
     int swap_count = 0;
-    for (int x = 0; x < a.size(); x++)
-    {
-        for (int y = 0; y < a.size() - 1; y++)
-        {
-            if (a[y] > a[y + 1])
-            {
+    for (int x = 0; x < a.size(); x++) {
+        for (int y = 0; y < a.size() - 1; y++) {
+            if (a[y] > a[y + 1]) {
                 temp = a[y];
                 a[y] = a[y + 1];
                 a[y + 1] = temp;
