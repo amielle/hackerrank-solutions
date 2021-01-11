@@ -9,6 +9,7 @@
 - Project Euler #6: Sum square difference
 - Project Euler #7: 10001st prime
 - Project Euler #8: Largest product in a series
+- Project Euler #9: Special Pythagorean triplet
 
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
