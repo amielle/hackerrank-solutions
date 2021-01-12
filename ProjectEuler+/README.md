@@ -11,6 +11,7 @@
 - Project Euler #8: Largest product in a series
 - Project Euler #9: Special Pythagorean triplet
 - Project Euler #10: Summation of primes
+- Project Euler #11: Largest product in a grid
 
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
