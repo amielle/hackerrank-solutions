@@ -10,6 +10,7 @@
 - Project Euler #7: 10001st prime
 - Project Euler #8: Largest product in a series
 - Project Euler #9: Special Pythagorean triplet
+- Project Euler #10: Summation of primes
 
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
