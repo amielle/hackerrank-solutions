@@ -12,7 +12,9 @@
 - Project Euler #9: Special Pythagorean triplet
 - Project Euler #10: Summation of primes
 - Project Euler #11: Largest product in a grid
-
+- Project Euler #12: Highly divisible triangular number *
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
 - Project Euler #201: Subsets with a unique sum
+
+( * To further optimize in the future. )
