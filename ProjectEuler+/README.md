@@ -13,6 +13,8 @@
 - Project Euler #10: Summation of primes
 - Project Euler #11: Largest product in a grid
 - Project Euler #12: Highly divisible triangular number *
+- Project Euler #13: Large sum
+
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
 - Project Euler #201: Subsets with a unique sum
