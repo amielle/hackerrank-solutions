@@ -14,6 +14,7 @@
 - Project Euler #11: Largest product in a grid
 - Project Euler #12: Highly divisible triangular number *
 - Project Euler #13: Large sum
+- Project Euler #14: Longest Collatz sequence
 
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
