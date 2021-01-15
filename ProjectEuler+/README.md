@@ -15,6 +15,7 @@
 - Project Euler #12: Highly divisible triangular number *
 - Project Euler #13: Large sum
 - Project Euler #14: Longest Collatz sequence
+- Project Euler #16: Power digit sum
 
 ## Solved problems (not yet uploaded)
 - Project Euler #15: Lattice paths
